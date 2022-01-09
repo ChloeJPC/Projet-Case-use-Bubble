@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<h1>Texte à bulles</h1>    
+<div class="card text-white bg-primary mb-3 row">
+    <div class="card-header">Entrainement</div>
+    <div class="card-body">
+      <h4 class="card-title">Retrouver la bonne déclinaison</h4>
+      <p class="card-text">Venez vous entrainer à choisir les bonnes déclinaisons ! Choisissez dans chaque liste déroulante la bonne déclinaison du mot pour que les phrases soient correctes, puis cliquez sur le bouton "Valider" pour vérifier vos réponses.</br>
+        Vous pouvez faire les exercices dans l'ordre, ou choisir directement l'exercice que vous souhaitez réaliser dans les 4 menus déroulants ci-dessous.
+      </p>
+    </div>
+</div>
+
+<!-- Listes des textes par niveau-->
+<div>
+  <!--Dropdown A1-->
+  <div class="btn-group">
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Textes A1
+    </button>
+    <div class="dropdown-menu" id="dropA1">
+      <h6 class="dropdown-header">(Prochainement)</h6>
+    </div>
+  </div>
+  <!--Dropdown A2-->
+  <div class="btn-group">
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Textes A2
+    </button>
+    <div class="dropdown-menu" id="dropA2">
+      <h6 class="dropdown-header">(Prochainement)</h6>
+    </div>
+  </div>
+  <!--Dropdown B1-->
+  <div class="btn-group">
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Textes B1
+    </button>
+    <div class="dropdown-menu" id="dropB1">
+      <h6 class="dropdown-header">(Prochainement)</h6>
+    </div>
+  </div>
+  <!--Dropdown B2-->
+  <div class="btn-group">
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Textes B2
+    </button>
+    <div class="dropdown-menu" id="dropB2">
+      <h6 class="dropdown-header">(Prochainement)</h6>
+    </div>
+  </div>
+</div>
+
+<!--EXERCICE-->
+<div class="card border-primary mb-3" id="card-baseTTC">
+    <!--Niveau et titre du texte de l'exercice-->
+    <div class="card-header" id="titreTxt"></div>
+    <div class="card-body">
+      <!-- Corps de l'exercice avec les listes déroulantes -->
+      <div class="card-text" id="txtListDer">Chargement en cours</div>          
+      <div id="test5"></div>
+    </div>
+    <!-- Bouton Réinitialiser les réponses -->
+    <input type="button" class="btn btn-primary offset-sm-5 col-sm-2 mb-3" id="reinitBouton" value="Réinitialiser"></input>
+    <!-- Bouton Valider les réponses -->
+    <input type="button" class="btn btn-primary offset-sm-5 col-sm-2 mb-3" id="validerBouton" value="Valider"></input>
+  </div>
+
+  <!--Bouton Changer de texte/Texte suivant-->
+  <input type="button" class="btn btn-secondary offset-sm-4 col-sm-4 mt-1 mb-4" id="autreTxt" value="Changer de texte"></input>
+
+{% block javascript %}                                  <!-- Appel du script javascript associé-->
+<script src="{% static 'scripts/Ex-a-trou.js' %}"></script>
+{% endblock %}
+
+
+{% endblock %}

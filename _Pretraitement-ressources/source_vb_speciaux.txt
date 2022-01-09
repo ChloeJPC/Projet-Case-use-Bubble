@@ -1,0 +1,251 @@
+abnehmen +D +A Ich nehme dir die Tasche ab.
+abtrocknen +A Er trocknet seinen Teller ab.
+anbieten +D +A Kann ich Ihnen einen Wein anbieten?
+annehmen +A Sie können das Geschenk gern annehmen.
+anrufen +A Er ruft seinen Freund an.
+anschauen +A Wir schauen den Reichstag an.
+ansehen +A Wir sehen uns den Ku’damm an.
+anstrengen +A Diese harte Arbeit strengt mich an.
+antworten +D Bitte antworte mir schnell!
+anzünden +A Zündet ihr die Kerzen an?
+auffallen +D Der Fehler ist mir nicht aufgefallen.
+aufgeben +A Er hat seinen Job aufgegeben.
+aufheben +A Kannst du den Krümel aufheben?
+aufmachen +D +A Warte, ich mache dir die Tür auf.
+aufnehmen +A Das Land nimmt neue Asylanten auf.
+aufräumen +A Am Wochenende räume ich den Keller auf.
+ausgeben +A Hast du das ganze Geld ausgegeben?
+auspacken +A Bitte pack das Geschenk schnell aus!
+ausschalten +A Schalte bitte den Fernseher aus!
+aussprechen +A Die Wahrheit musste jemand aussprechen.
+aussuchen +D +A Du hast dir die teuerste Pizza ausgesucht.
+ausweichen +D Er konnte dem LKW noch ausweichen.
+ausziehen +A Bitte ziehen Sie den Hut aus.
+backen +A Backst du heute wieder einen Kuchen?
+baden +A Sie badet ihren Sohn täglich.
+bauen +A Wir bauen nächstes Jahr ein Haus.
+beachten +A Beachten Sie die Bedienungsanleitung.
+beantragen +A Er habe das Arbeitslosengeld beantragt.
+beantworten +D +A Bitte beantworten Sie die E-Mail heute.
+bedienen +A Der Kellner bedient den Franzosen.
+begegnen +D Er begegnet ihm zum ersten Mal.
+beginnen +A Bald beginne ich einen Deutschkurs.
+begründen +A Ich begründe meine Meinung nicht.
+begrüßen +A Begrüßt ihr die Gäste?
+behalten +A Ich behalte diesen Ring.
+bekommen +A Bekommen Sie den Fisch?
+bemerken +A Er bemerkt den Fehler nicht.
+benachrichtigen +A Sie benachrichtigte ihren Mann sofort.
+benutzen +A Bitte benutze dein Taschentuch.
+beraten +A Er berät nur einen kleinen Kundenkreis.
+berücksichtigen +A Berücksichtigen Sie die Zeitverschiebung.
+beruhigen +A Sie beruhigt ihr weinendes Kind.
+beschreiben +A Ich beschreibe die deutsche Grammatik.
+besichtigen +A Lass uns das Museum besichtigen!
+besitzen +A Ich besitze keinen Porsche.
+bestellen +A Ich bestelle einen Opel.
+bestimmen +A Können Sie das Alter genau bestimmen?
+besuchen +A Wir müssen deinen Bruder besuchen.
+betrügen +A Sie betrog ihn mit seinem Freund.
+beweisen +D +A Die Polizei bewies dem Dieb die Straftat.
+bezahlen +A Er konnte die Rechnung nicht bezahlen.
+bieten +D +A Die Firma bietet mir eine gute Stelle.
+brauchen +A Ich brauche keine Schokolade.
+bringen +D +A Bitte bring mir einen Kaffee.
+danken +D Ich muss dir herzlich danken.
+dienen +D Dient das der Wahrheit?
+drehen +A Dreh die Musik bitte leiser!
+drohen +D Du willst mir drohen?
+drücken +A Er drückt den Knopf dreimal.
+drucken +A Ich drucke nur schnell die Präsentation.
+ehren +A Sie ehren den Autor für sein Lebenswerk.
+einfallen +D Mir fällt keine neue Idee ein.
+einkaufen +A Kauf das Fleisch im Supermarkt ein.
+einladen +A Lädst du deine Eltern fürs Wochenende ein?
+einpacken +D +A Ich packe die Ausweise ein.
+empfehlen +D +A Er empfiehlt uns das Steak.
+enthalten +A Cola enthält viel Zucker.
+entlassen +A Die Firma entlässt den besten Mitarbeiter.
+erfahren +A Hast du das Neueste schon erfahren?
+erfinden +A Wer hat den Computer erfunden?
+erfüllen +D +A Ich erfülle mir heute einen Wunsch.
+erhalten +A Wann erhältst du dein Diplom?
+erhöhen +A Die Regierung hat den Steuersatz erhöht.
+erkennen +A Ich erkenne dich auf dem Foto nicht.
+erklären +D +A Kannst du mir den Akkusativ erklären?
+erledigen +A Ich erledige nur schnell die Post.
+eröffnen +A Ein Italiener eröffnet die neue Pizzeria.
+erreichen +A Wann kann ich dich erreichen?
+erschrecken +A Du darfst den Hund nicht erschrecken.
+erwarten +A Ich erwarte eine Antwort von dir!
+erzählen +D +A Omas erzählen gern Geschichten.
+erziehen +A Man muss junge Hunde streng erziehen.
+essen +A Er isst mittags immer einen Hamburger.
+fehlen +D Du fehlst mir so sehr!
+feiern +A Lass uns deinen Geburtstag groß feiern!
+finden +A Ich finde deinen Vorschlag gut.
+folgen +D Bitte folgen Sie mir.
+fordern +A Ich fordere einen Geschäftswagen!
+fotografieren +A Fotografieren Sie nicht die Prominenten.
+fragen +A Kannst du ihn fragen?
+frühstücken +A Wir frühstücken zwei Brötchen.
+fühlen +A Ich fühle hier im Fell eine Zecke.
+führen +A Sie führt den Frisörsalon schon 25 Jahre.
+geben +D +A Bitte gib mir den Schlüssel fürs Auto.
+gefallen +D Deine neue Frisur gefällt mir.
+gehorchen +D Ihr müsst dem Lehrer gehorchen.
+gehören +D Das T-Shirt gehört doch mir!
+gelingen +D Diesmal gelingt mir der Kuchen.
+genügen +D Dein Versprechen genügt mir nicht.
+geschehen +D Dir geschieht kein Unrecht.
+glauben +D +A Ich glaube dir nicht.
+gratulieren +D Wir gratulieren dir zur Geburt von Lisa.
+grüßen +A Ich grüße dich!
+haben +A Haben wir heute einen Termin?
+hassen +A Ich hasse diesen Tag!
+heben +A Der Kran hebt die Palette aufs Dach.
+heizen +A Wir heizen den Raum nur im Dezember.
+helfen +D Willst du mir helfen?
+herstellen +A HP stellt Computer her.
+holen +D +A Ich hole mir schnell einen Tee.
+hören +A Hörst du auch dieses Geräusch?
+informieren +A Mein Chef wollte mich heute informieren
+kaufen +D +A Soll ich mir die Schuhe kaufen?
+kennen +A Ich kenne diesen Mann von früher.
+kochen +D +A Kochst du mir heute eine Suppe?
+kontrollieren +A Der Zoll kontrolliert wenige Reisende.
+korrigieren +A Bitte korrigiere die Fehler im Text.
+kündigen +D +A Achim kündigt seinem Mitarbeiter.
+Ich kündige meine Stelle.
+küssen +A Sie können die Braut jetzt küssen.
+lassen +A Anne lässt sich ein Tattoo stechen.
+leid tun +D Du tust mir wirklich leid.
+leihen +D +A Kannst du mir einen Regenschirm leihen?
+leiten +A Er leitet die Firma schon viele Jahre.
+lernen +A Ich muss diesen Text auswendig lernen.
+lesen +A Kannst du den Brief lesen?
+lieben +A Ich liebe diesen Ort!
+liefern +D +A Können Sie mir das Sofa morgen liefern?
+loben +A Du solltest deine Mitarbeiter mehr loben.
+lösen +A Alexander konnte das Rätsel lösen.
+machen +D +A Machst du mir einen Kaffee?
+malen +D +A Malst du mir ein Bild?
+markieren +A Markieren Sie die richtige Antwort.
+meinen +A Ich meine diesen Mann, nicht den dort.
+melden +D +A Melden Sie den Fehler bitte sofort.
+merken +D +A Ich kann mir deine Nummer nicht merken.
+messen +A Messen Sie den Abstand genau.
+mieten +D +A Morgen mieten wir uns ein Boot.
+mitbringen +D +A Bringst du mir einen Stift mit?
+mitteilen +D +A Teilen Sie mir Ihre Frage per E-Mail mit.
+nachgehen +D Dieser Sache muss ein Anwalt nachgehen.
+nehmen +D +A Ich nehme mir einen Tag Urlaub.
+nennen +D +A Kannst du mir einen berühmten Erfinder nennen?
+nutzen +A Du kannst mein Internet gern auch nutzen.
+nützen +D Wem nützt dieses neue Gesetz?
+passen +D 12.00 Uhr passt mir gut.
+pflegen +A Sie pflegt ihre alten Eltern schon lange.
+prüfen +A Wir müssen Ihren Antrag genau prüfen.
+putzen +A Kannst du auch mein Auto putzen?
+raten +D Kannst du mir raten, was ich tun soll?
+rauchen +A Er raucht nach dem Essen eine Zigarette.
+reichen +D +A Reich mir bitte das Salz.
+reparieren +A Wann können Sie mein Auto reparieren?
+reservieren +D +A Reservieren Sie mir zwei Sitzplätze.
+riechen +A Ich kann dieses Parfüm nicht mehr riechen.
+sammeln +A Sammeln Sie den Restmüll in dieser Tonne.
+schaden +D Zu viel Sonne schadet mir.
+schenken +D +A Schenkst du mir eine Kette?
+schlagen +A Schlagen Sie das Eiweiß, bis es steif ist.
+schließen +A Wann schließen die Geschäfte in Köln?
+schmecken +D Die Kirschen schmecken mir so gut.
+schneiden +D +A Soll ich dir eine Scheibe Brot schneiden?
+schreiben +D +A Schreib mir nur eine kurze SMS.
+sehen +A Willst du meinen Garten sehen?
+senden +D +A Wir senden Ihnen die Bücher morgen.
+sparen +A Ich spare das Geld für meinen Urlaub.
+spielen +A Spiel doch nicht so viele Computerspiele.
+spülen +A Ich spüle schnell die Töpfe.
+starten +A Morgen starten wir den Verkauf.
+stehlen +D +A Er stiehlt mir nur meine Zeit.
+stoppen +A Wie kann man das Programm stoppen?
+stören +A Der Baulärm stört mich sehr.
+studieren +A Ich studiere Deutsch und Englisch.
+suchen +A Suchen Sie ein Hotelzimmer?
+tanzen +A Ich tanze am liebsten den Tango.
+teilen +A Teilst du dein Geld mit mir?
+töten +A Ich habe diese Spinne getötet.
+tragen +A Kannst du die Bierkiste tragen?
+transportieren +A Dieser LKW transportiert 50 Schweine.
+treffen +A Morgen treffe ich meinen alten Kollegen.
+trinken +A Ich trinke einen Rotwein.
+trocknen +D +A Willst du dir die Haare trocknen?
+überfahren +A Er habe das Tier nicht überfahren.
+überholen +A Das Motorrad überhole ich nicht.
+übernehmen +A Porsche hat VW nicht übernommen.
+überqueren +A Wir überqueren die Straße am Zebrastreifen.
+überraschen +A Sie überrascht ihren Mann sehr gern.
+überreden +A Kann ich dich zu einem Picknick überreden?
+übersetzen +A Diesen Text muss man übersetzen.
+überweisen +D +A Kannst du mir das Geld heute überweisen?
+überzeugen +A Dieses Argument überzeugt mich nicht.
+umtauschen +A Sie können den Bikini nicht umtauschen.
+unterrichten +A Ich unterrichte diese Klasse schon ein Jahr.
+unterschreiben +A Unterschreiben Sie den Vertrag hier unten.
+unterstützen +A Eltern müssen ihre Kinder unterstützen.
+untersuchen +A Der Arzt untersucht den Kranken.
+verändern +A Sie hat ihren Stil 20 Jahre nicht verändert.
+verbieten +D +A Willst du mir die Reise etwa verbieten?
+verbrauchen +A Jeder EU-Bürger verbraucht eine halbe Tonne Müll.
+verdächtigen +A +G Man habe den Fahrer des Diebstahls verdächtigt.
+verdienen +D +A Jetzt haben wir uns einen freien Tag verdient.
+vergessen +A Vergiss bitte den Frisörtermin nicht!
+vergleichen +A Man muss stets die Preise vergleichen.
+vergrößern +A Die Firma vergrößert ihre Produktionshalle.
+verhaften +A Die Polizei verhaftet den Täter.
+verheimlichen +D +A Du kannst mir nichts verheimlichen.
+verhindern +A Die Bürger konnten den Neubau der Straße nicht verhindern.
+verkaufen +D +A Endlich habe ich mein altes Auto verkauft.
+verlängern +A Verlängerst du dein Abo der Tageszeitung?
+verlassen +A Sie hat ihn verlassen.
+verlieren +A Ich verliere gleich meinen Verstand.
+vermieten +D +A Vermietest du die Wohnung ab 1. August?
+verpassen +A Nun habe ich das WM-Endspiel verpasst.
+verraten +D +A Du darfst ihr das Geheimnis nicht verraten.
+verschreiben +D +A Der Arzt hat mir Massagen verschrieben.
+versichern +D +A Können Sie mir das Auto versichern?
+versprechen +D +A Du hast mir eine Überraschung versprochen.
+verstecken +A Der Osterhase versteckt die Ostereier.
+verstehen +A Ich verstehe dieses Wort nicht.
+verteilen +A Der Weihnachtsmann verteilt die Geschenke.
+vertrauen +D Vertrau mir!
+vertreten +A Mein Kollege hat mich vertreten.
+verursachen +A Wer hat den Unfall verursacht?
+verwenden +A Ich verwende das Waschmittel schon lange.
+verzeihen +D +A Man sollte dem anderen verzeihen.
+vorbereiten +A Kannst du eine kurze Rede vorbereiten?
+vorlesen +D +A Kannst du mir eine Geschichte vorlesen?
+vorschlagen +D +A Ich schlage Ihnen einen Handel vor.
+vorstellen +D +A Sie hat ihren Eltern den neuen Freund noch nicht vorgestellt.
+warnen +A Ich habe dich gewarnt.
+waschen +A Ich wasche mein Auto jeden Samstag.
+wechseln +A Ich muss meinen 500-Euro-Schein wechseln.
+wecken +A Kannst du mich um 6.00 Uhr wecken?
+werfen +A Ich werfe dieses alte T-Shirt jetzt weg.
+widersprechen +D Du sollst deinem Vater nicht widersprechen.
+wiederholen +A Können Sie die Frage wiederholen?
+wiegen +A Wie viel wiegt ein Airbus?
+winken +D Wink deiner Oma zum Abschied!
+wissen +A Weißt du keine bessere Frage?
+wünschen +D +A Ich wünsche dir alles Gute zum Geburtstag.
+zählen +A Zählst du die Tage bis zu deinem Urlaub?
+zahlen +A Er zahlt das Essen für die ganze Familie.
+zeichnen +A Kannst du einen Elefanten zeichnen?
+zeigen +D +A Zeig mir mal bitte deine Hände!
+zerstören +A Im Krieg wurde Dresden komplett zerstört.
+zuhören +D Hörst du mir bitte mal zu?
+zumachen +A Machst du die Tür zu, wenn du gehst?
+zusammenfassen +A Lasst uns alle Argumente zusammenfassen.
+zuschauen +D Warte! Ich will dem Maler zuschauen.
+zusehen +D Ich könnte dir stundenlang zusehen.
+zustimmen +D Der Bundestag hat dem neuen Gesetz zugestimmt.

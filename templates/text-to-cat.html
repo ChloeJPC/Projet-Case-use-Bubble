@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<h1>Une histoire de déclinaisons</h1>
+<div class="card text-white bg-primary mb-3 row">
+    <div class="card-header">Utilisation de l'outil</div>
+    <div class="card-body">
+      <h4 class="card-title">Le pourquoi du comment</h4>
+      <p class="card-text">Le but de cet outil est de comprendre les usages des natifs et les raisons qui les poussent à faire comme ça. Entrez votre texte, nous vous expliquons comment les mots ont été déclinés !<br/>
+        PS: Pas de texte à disposition? Pas de problème ! Cliquez sur "Texte de démonstration" pour en obtenir un automatiquement.
+      </p>
+    </div>
+    <button type="button" class="btn btn-secondary offset-sm-4 col-sm-4" onclick="textDefault()">Texte de démonstration</button>  <!-- bouton pour obtenir le texte démo-->
+</div>
+
+<div class="form-group offset-sm-2 col-sm-8 row" id="form_text">
+  <div class="input-group">
+    <textarea class="form-control col-sm-9" id="inText" aria-describedby="valid"></textarea>                                             <!-- Textarea-->
+    <button type="button" class="btn btn-primary col-sm-3" id="valid" onclick="sendText()">Analyser !</button>  <!-- bouton pour lancer sendText()-->
+  </div>
+</div>
+
+<div class="card border-primary mb-3" id="card-baseTTC">
+  <div class="card-header">Votre texte : Cliquez sur les mots en couleur pour en apprendre plus sur leur déclinaison.</div>
+  <div class="card-body">
+    <div class="card-text" id="baseTTC"></div>          <!-- Texte en sortie d'analyse -->
+  </div>
+  <div class="card-footer" id="outText"></div>          <!-- Explications pour le mot sélectionné -->
+</div>
+
+{% block javascript %}                                  <!-- Appel du script javascript associé-->
+<script src="{% static 'scripts/text-to-cat.js' %}"></script>
+{% endblock %}
+
+{% endblock %}

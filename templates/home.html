@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+  <div class="row justify-content-start" id="quote-line">
+      <figure class="col-lg-4">
+          <blockquote class="blockquote">
+            <p class="mb-0">Eine Idee muss Wirklichkeit werden können, oder sie ist nur eine eitle Seifenblase. </p>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+            Berthold Auerbach
+          </figcaption>
+      </figure>
+      <figure class="text-center col-lg-4">
+          <blockquote class="blockquote">
+            <p class="mb-0">Double, double, toil and trouble; Fire burn and cauldron bubble!</p>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+            William Shakespeare
+          </figcaption>
+        </figure>
+      <figure class="text-end col-lg-4">
+          <blockquote class="blockquote">
+            <p class="mb-0">Les fées font leur lessive dans une bulle de savon et cuisent leur soupe sur un feu follet.</p>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+              Béatrix Beck
+          </figcaption>
+      </figure>
+  </div>
+  <div class="container-fluid row">
+    <div class="container-fluid col-lg-8">
+      <h3 id="title3">Bienvenue !</h3>
+      <div class="card text-white bg-info">
+        <h4 class="card-header">Présentation du site</h4>
+        <div class="card-body">
+          <p class="card-text">Case-use Bubble est un site dont l'objectif est d'accompagner les apprenants de l'allemand dans la compréhension et l'usage des cas de déclinaison présents dans cette langue. 
+            <br/>Les onglets ci-dessous présentent un petit récapitulatif sur cette notion, ainsi que les deux activités présentes sur ce site et une sélection de ressources externes validée par notre équipe.</p>
+        </div>
+      </div>
+      <div class="row card" id="tabs-info">
+        <ul class="nav nav-tabs alert-light">
+          <li class="nav-item">
+            <a class="nav-link active" data-bs-toggle="tab" id="0">Au cas par cas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" id="1">Analyseur de textes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" id="2">Entrainement</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" id="3">Ressources externes</a>
+          </li>
+        </ul>
+        <div id="myTabContent" class="tab-content alert-light">
+          <div class="tab-pane fade active show" id="recap">
+            <p> Les cas de déclinaison concernent les pronoms (<i>ich, du, er</i>, …) ainsi que les éléments constituant un groupe nominal : le déterminant, l'adjectif ou le nom. 
+              De manière générale, tous ces mots sont porteur d'un cas qui est rendu plus ou moins évident par un suffixe. 
+              Mais il ne s'agit là que du principe général... Les pronoms subissent souvent un changement radicale de forme sous l'effet du cas tandis qu'à l'opposé, les noms ne 
+              laissent que rarement apparaître une marque de déclinaison ( quand ils sont au pluriel ou au génitif). 
+              <br/> Voici un petit rappel des quatre cas que compte l'allemand et de leur usage les plus communs: 
+            </p>
+            <p>  
+              <span class="Nom">Nominatif</span> : le cas sujet, employé par défaut pour s’adresser à quelqu’un ou pour les exclamations. 
+              <br/><center><i><span class="Nom">Ich</span> esse ein Brötchen.</i> / Je mange un petit pain.</center>
+            <br/>
+              Également appliqué aux attributs du sujets ( compléments grammaticaux de verbes comme être / <i>sein</i>, appelés “verbes d’état”) :
+              <br/><center><i>Anna ist <span class="Nom">meine beste Freundin</span>.</i> /  Anna est ma meilleure amie.</center>
+            </p> 
+            <p>
+              <span class="Acc">Accusatif</span> : s’applique aux compléments directs du verbe (sauf verbes d’état comme être / sein ), surtout quand celui-ci admet plusieurs compléments.
+              <br/><center><i>Hast du <span class="Acc">den Hund </span>gesehen?</i> /  As tu vu le chien ?</center>
+            </p> 
+            <p>
+              <span class="Dat">Datif</span> : s’applique aux compléments “indirects” ou “facultatifs” du verbes, pour lesquels le français emploi le plus souvent des prépositions :
+              <br/><center><i>Tut mir leid, ich habe <span class="Dat">meinem Bruder</span> den Buch gegeben.</i>/ Désolé, j’ai donné ce livre à mon frère. </center>
+               <br/>
+               C’est aussi le cas le plus fréquent pour les verbes dont le seul argument en dehors du sujet est humain (aider quelqu’un, suivre quelqu’un…), ce qui n’est pas forcément très intuitif pour un francophone:
+               <br/><center><i>Illustrationen helfen <span class="Dat">dem Leser</span>, besser zu verstehen</i>. / Des illustrations aident le lecteur à mieux comprendre.</center>
+            </p>
+            <p>
+              <span class="Gen">Génitif</span> : cas du complément du nom, souvent marqué en français par l'usage de la proposition “de”:
+              <br/>
+              <center>
+                <i>das hause <span class="Gen">meiner Eltern</span></i> /  la maison de mes parents
+              <br/><i>die Entscheidung <span class="Gen">des Ministers</span></i> /  La décision du ministre
+              </center>
+            </p>
+          </div>
+          <div class="tab-pane fade" id="outil1">
+            <p>
+              L'onglet "Histoire de déclinaisons" de la barre de navigation vous mènera vers un petit outil d'analyse de textes. 
+              Que vous soyez débutant(e) ou non, cet outil pourra vous venir en aide dès que vous rencontrez une déclinaison que vous ne vous expliquez pas. 
+            </p>
+            <p>  
+              Pour s'en servir, rien de plus simple! Copiez la ou les phrase(s) contenant le problème dans la zone de texte et cliquez sur "Analysez". 
+              Vous obtiendrez alors un texte où les mots déclinés sont mis en évidence, et il ne vous restera plus qu'à cliquer sur l'un d'entre eux pour obtenir des éléments de réponse !
+            </p>
+            <p>
+              <b>Attention :</b> cet analyseur de texte se base sur une chaîne de traitement automatique externe (spaCy) qui est tout sauf miraculeuse. 
+              Il arrive donc que l'analyseur produise des erreurs dont nous ne sommes pas responsables et qu'il nous est difficile de corriger.
+              <br/> Si vous constatez l'apparition de deux cas de déclinaisons différents dans un même groupe nominal, ou si un mot que vous savez être au singulier est indiqué comme étant au pluriel, il s'agit probablement d'une de ces erreurs.
+            </p>
+          </div>
+          <div class="tab-pane fade" id="Ex1">
+            <p>
+              Une petite série d'exercices de texte à trous vous attend dans l'onglet "Texte à bulles". Comme son nom l'indique, cette activité vous propose de vous entraîner à choisir la forme correcte en fonction de la déclinaison à appliquer.
+            </p>
+            <p>
+              Ces exercices s'adressent en premier lieu à des utilisateurs dont le niveau en allemand est faible ou intermédiaire. Ils ne nécessitent pas de rédaction ni de connaissance sur le genre des mots impliqués.
+            </p>
+            <p>
+              <b>Attention :</b> cette activité se base sur la même chaîne de traitement automatique externe (spaCy) que l'analyseur de texte. 
+              Il arrive donc, là encore, que les exercices contiennent des erreurs dont nous ne sommes pas responsables et qu'il nous est difficile de corriger.
+            </p>
+          </div>
+          <div class="tab-pane fade" id="links">
+            <p>Conseils de ressources externes autour de la notion et de la langue.</p>
+            <ul>
+              <li>
+                <a href="https://deutsch.lingolia.com/fr/grammaire/les-declinaisons">Lingolia Deutsch</a> : Détail des contextes de déclinaison et explications plus précises sur leur emploi.
+              </li>
+              <li>
+                <a href="https://www.verbformen.de/">Verbformen</a> : outils de flexion des mots allemand (noms, adjectifs mais aussi verbes) à utiliser en cas de doute.
+              </li>
+              <li>
+                <a href="https://www.linguee.fr/">Linguee</a> : Dictionnaire franco-allemand disponible avec possibilité d'observer le mot recherché en contexte.
+              </li>
+              <li>
+                <a href="https://fr.pons.com/traduction/allemand-français">Pons</a> : Dictionnaire franco-allemand très complet.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card text-white bg-danger mb-3 col-lg-4" style="max-height:500px">
+      <div class="card-header">Contacter-nous</div>
+      <div class="card-body">
+        <h4 class="card-title">Formulaire de contact</h4>
+        <div class="card-text form">
+          <div class="form-group">
+            <label class="col-form-label" for="inputDefault">Nom / pseudonyme</label>
+            <input type="text" class="form-control" placeholder="Vous êtes...?" id="inputDefault">
+          </div>
+          <div class="form-group"> 
+            <label class="col-form-label" for="inputDefault">Objet</label>
+            <input type="text" class="form-control" placeholder="Thème de votre message" id="inputDefault">
+          </div>
+          <div class="form-group">
+            <label for="exampleTextarea" class="form-label mt-4">Votre message</label>
+            <textarea class="form-control" id="exampleTextarea" placeholder="Dites-nous tout!" rows="3"></textarea>
+          </div>
+        </div>
+        <fieldset class="form-group">
+            <label for="customRange1" class="form-label">Evaluez votre expérience du site (optionnel): </label>
+            <input type="range" class="form-range" id="customRange1">
+        </fieldset>
+        <button type="submit" class="btn btn-primary">Envoyer</button>
+      </div>
+    </div>
+  </div>
+
+{% block javascript %}                                  <!-- Appel du script javascript associé-->
+<script src="{% static 'scripts/home.js' %}"></script>
+{% endblock %}
+
+{% endblock %}

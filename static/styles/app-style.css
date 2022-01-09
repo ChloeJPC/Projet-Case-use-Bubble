@@ -1,0 +1,115 @@
+/* Style général */
+
+.wrapper {
+    /* calcul la taille minimale de la fenêtre pour positionner le footer*/
+    min-height: calc(100vh - 80px);
+}
+
+/* Style de la page home */
+#quote-line{
+    background-color: rgba(120, 194, 173, 0.479);
+    border-radius: 0%  0% 8% 8%;
+    margin-bottom: 1%;
+}
+
+#title3 {
+    text-align: center;
+}
+
+#tabs-info {
+    margin: 2% 1%;
+}
+
+.nav-tabs {
+    background-color: #73c6d7;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+}
+
+.nav-tabs a {
+    color: white !important;
+}
+
+a.nav-link.active {
+    color: #5a5a5a !important;
+    font-weight: bold;
+}
+
+.tab-content > .active {
+    padding : 1%;
+}
+
+/* Style relatif à la page text-to-cat.html */
+#card-baseTTC {
+    margin-top: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#card-baseTTC > .card-header {
+    color: #13976f;
+    font-weight: bold;
+}
+
+#baseTTC {
+    /* style du texte analysé */
+}
+
+#outText {
+    color : rgb(241, 126, 132);
+    font-weight: bold;
+}
+
+.card-headers{
+    text-align: center;
+}
+
+.Nom {
+    /* Mise en évidence des mots au nominatif */
+    color: rgb(10, 72, 131);
+    font-weight: bold;
+}
+
+    .Nom:hover {
+        color: rgb(63, 138, 207);
+    }
+
+.Acc {
+    /* Mise en évidence des mots à l'accusatif */
+    color: rgb(131, 10, 10);
+    font-weight: bold;
+}
+
+    .Acc:hover {
+        color: rgb(201, 82, 82);
+    }
+
+.Dat {
+    /* Mise en évidence des mots au datif */
+    color: rgb(111, 10, 131);
+    font-weight: bold;
+}
+
+    .Dat:hover {
+        color: rgb(174, 73, 194);
+    }
+
+.Gen {
+    color: rgb(89, 131, 10);
+    font-weight: bold;
+}
+
+    .Gen:hover {
+        color: rgb(137, 194, 32);
+    }
+
+/* Style relatif à la page Ex-a-trou.html */
+
+#txtListDer p {
+    color :rgba(0, 0, 0, 0.8) ; 
+}
+
+select {
+    color :rgba(20, 19, 19, 0.712) ; 
+}
+
+
