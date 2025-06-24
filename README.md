@@ -4,7 +4,7 @@ Projet en binôme pour les cours de TAL&ALAO et Java.
 Chloé Choquet et Pauline Mas (M2 IDL)
 
 ## Application pour l'apprentissage de la langue allemande ##
-La visée, le fonctionnement et les limites des modules développés dans le cadre de ce projet sont détaillés sur un wiki séparés : *(adresse à venir)*.
+La visée, le fonctionnement et les limites des modules développés dans le cadre de ce projet sont détaillés dans le wiki de ce dépôt.
 
 ### Arborescence du projet ###
 
